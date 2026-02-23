@@ -17,9 +17,8 @@ This is a web-based Employee Management System developed using Core PHP, MySQL, 
 
 ## How to Run
 1. Start Apache & MySQL in XAMPP/LAMPP
-2. Place project inside htdocs
-3. Import employees_db.sql into phpMyAdmin
-4. Open http://localhost/EmployeesManagement/login.php
+2. Import employees_db.sql into phpMyAdmin
+3. Open http://localhost/EmployeesManagement/login.php
 
 ## Login Credentials
 admin / GARVIT123
