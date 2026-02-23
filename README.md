@@ -7,7 +7,7 @@ This is a web-based Employee Management System developed using Core PHP, MySQL, 
 - PHP
 - MySQL
 - Bootstrap
-- LAMPP/XAMPP
+- XAMPP
 
 ## Features
 - User Login & Logout
@@ -16,7 +16,7 @@ This is a web-based Employee Management System developed using Core PHP, MySQL, 
 - Session Management
 
 ## How to Run
-1. Start Apache & MySQL in XAMPP/LAMPP
+1. Start Apache & MySQL in LAMPP
 2. Import employees_db.sql into phpMyAdmin
 3. Open http://localhost/EmployeesManagement/login.php
 
