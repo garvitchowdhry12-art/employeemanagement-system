@@ -24,4 +24,4 @@ This is a web-based Employee Management System developed using Core PHP, MySQL, 
 admin / GARVIT123
 
 ## Developed By
-Garvit
+Garvit Chowdhry
