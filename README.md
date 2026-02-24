@@ -1,27 +1,102 @@
 # Employee Management System
 
-## Project Overview
-This is a web-based Employee Management System developed using Core PHP, MySQL, and Bootstrap.
+This project is created as part of my technical assignment.
 
-## Technology Stack
-- PHP
-- MySQL
+It is a basic Employee Management System developed using PHP and MySQL and hosted online using InfinityFree.
+
+Live Website:  
+https://garvitproject.rf.gd/login.php
+
+
+# Technologies Stack
+
+- Core PHP
+- MySQL Database
+- HTML
 - Bootstrap
-- XAMPP
+- InfinityFree 
 
-## Features
-- User Login & Logout
-- Role-Based Access Control
-- Employee CRUD Operations
-- Session Management
 
-## How to Run
-1. Start Apache & MySQL in LAMPP
-2. Import employees_db.sql into phpMyAdmin
-3. Open http://localhost/EmployeesManagement/login.php
+# Project Description
 
-## Login Credentials
-admin / GARVIT123
+The purpose of this project is to perform basic CRUD operations on employee records.
 
-## Developed By
-Garvit Chowdhry
+The system allows:
+
+- User Login
+- Adding Employees
+- Viewing Employees
+- Editing Employee Details
+- Deleting Employees
+
+All data is stored in a MySQL database.
+
+
+
+# Features Implemented
+
+- Login System  
+- Session Handling  
+- Database Connectivity  
+- Add Employee  
+- View Employees  
+- Edit Employee  
+- Delete Employee  
+
+
+
+# How to Run Project on Localhost
+
+1. Install XAMPP 
+2. Start Apache & MySQL
+3. Copy project folder into `htdocs`
+4. Open phpMyAdmin
+5. Import the SQL database
+6. Run in browser:
+
+http://localhost/yourfolder/login.php
+
+
+
+# Online Hosting
+
+The project is hosted using InfinityFree.
+
+Steps followed:
+
+- Created hosting account
+- Uploaded files into htdocs
+- Created MySQL database
+- Imported SQL file
+- Updated db.php with hosting credentials
+
+
+# Database
+
+Database contains tables like:
+
+- users
+- employees
+  
+
+# Login Credentials 
+
+ROLE - ADMIN
+Username: admin  
+Password: GARVIT123
+
+ROLE - MANAGER
+Username: manager
+password: manager111
+
+ROLE - STAFF
+Username: staff
+Password: staff111
+
+# CREATED BY
+Name: Garvit Chowdhry 
+Email: garvitchowdhry12@gmail.com
+Contact: +91 9205671610
+
+
+
